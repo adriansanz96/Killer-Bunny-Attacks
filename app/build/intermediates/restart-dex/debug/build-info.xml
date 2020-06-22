@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="19878050812619"
+    token="-5678328368530307717"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="334" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="117" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+
+    <build timestamp="19082145957994" >
+        <artifact
+            location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="19878050812619"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Mis Archivos\Escritorio\Apps Android\KILLER BUNNY REED\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

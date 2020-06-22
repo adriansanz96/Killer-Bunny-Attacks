@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "307501629646",
+    "firebase_url": "https://admob-app-id-9327642964.firebaseio.com",
+    "project_id": "admob-app-id-9327642964",
+    "storage_bucket": "admob-app-id-9327642964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307501629646:android:4a2270a27a1133eb",
+        "android_client_info": {
+          "package_name": "com.adrian.killerbunnyattacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307501629646-d4ajjm6263aavjde0svp0mhv0f7nvmob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RNtQrzCjDoTU-E53jLhtw9i5KNyYHaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307501629646:android:a92ab0147f2e3f0b",
+        "android_client_info": {
+          "package_name": "com.adrian.hyrulequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307501629646-d4ajjm6263aavjde0svp0mhv0f7nvmob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RNtQrzCjDoTU-E53jLhtw9i5KNyYHaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307501629646:android:46cdb6a20119ea41",
+        "android_client_info": {
+          "package_name": "com.adrian.fastmaths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307501629646-d4ajjm6263aavjde0svp0mhv0f7nvmob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RNtQrzCjDoTU-E53jLhtw9i5KNyYHaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307501629646:android:e27bfd04ca5b0bae",
+        "android_client_info": {
+          "package_name": "com.adrian.limon4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307501629646-d4ajjm6263aavjde0svp0mhv0f7nvmob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RNtQrzCjDoTU-E53jLhtw9i5KNyYHaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307501629646:android:5c59b870ac1b590b",
+        "android_client_info": {
+          "package_name": "com.adrian.bomtap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307501629646-d4ajjm6263aavjde0svp0mhv0f7nvmob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RNtQrzCjDoTU-E53jLhtw9i5KNyYHaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

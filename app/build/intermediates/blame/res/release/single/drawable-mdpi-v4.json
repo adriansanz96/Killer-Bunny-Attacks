@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_social_notifications.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_social_notifications.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bunny_icono_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bunny_icono_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_thumb_up.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_action_thumb_up.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_content_add_box.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_content_add_box.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_rojo_01_puls.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_rojo_01_puls.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bocadillozanahoria_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bocadillozanahoria_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_social_notifications_on.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_social_notifications_on.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_editor_insert_chart.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_editor_insert_chart.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zanahoria_ico_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\zanahoria_ico_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\spain.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\spain.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\fondo_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\fondo_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bunny_1_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bunny_1_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_av_volume_off.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_av_volume_off.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\iconoamarillo.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\iconoamarillo.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_mal.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_mal.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bunny_corriendo_01_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bunny_corriendo_01_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\iconoverde_larg.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\iconoverde_larg.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_exit_to_app.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_action_exit_to_app.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_content_save.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_content_save.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_av_volume_up.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_av_volume_up.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\iconoazul_larg.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\iconoazul_larg.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_social_share.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_social_share.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\united_kingdomgreat_britain.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\united_kingdomgreat_britain.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_volume_off.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_volume_off.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_naranja_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_naranja_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\iconorojo_larg.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\iconorojo_larg.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_verde_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_verde_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_resultados.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_resultados.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bunny_icono_01_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bunny_icono_01_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_thumb_down.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_action_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_amarillo_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_amarillo_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_tonos_on.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_tonos_on.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\iconoamarillo_larg.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\iconoamarillo_larg.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_volumen_on.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_volumen_on.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_verde_01_puls.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_verde_01_puls.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bocadillobunny_listo_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bocadillobunny_listo_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_larg_naranja_02.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_larg_naranja_02.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_larg_naranja_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_larg_naranja_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_idioma.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_idioma.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\progreso_zanahoria_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\progreso_zanahoria_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zanahoria_asustada_01_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\zanahoria_asustada_01_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_amarillo_01_puls.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_amarillo_01_puls.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_social_whatshot.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_social_whatshot.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\progreso_bunny_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\progreso_bunny_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bunny_furioso_reed.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bunny_furioso_reed.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\iconoazul.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\iconoazul.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_bunny2.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_bunny2.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_rojo_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_rojo_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_device_screen_rotation.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_device_screen_rotation.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_info.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_av_replay.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_av_replay.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bocadillo_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bocadillo_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zanahoria_asustada_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\zanahoria_asustada_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_language.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_action_language.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\iconoverde_peq.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\iconoverde_peq.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bunny_1_01_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bunny_1_01_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_info.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_info.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bunny_3_reed.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\bunny_3_reed.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\iconoverde.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\iconoverde.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zanahoria_asustada_01_01_01.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\zanahoria_asustada_01_01_01.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\catalonia.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\catalonia.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\boton_naranja_01_puls.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\boton_naranja_01_puls.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_social_notifications_off.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_social_notifications_off.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_tonos_off.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_tonos_off.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\iconorojo.9.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\iconorojo.9.png"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_bien.png",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_bien.png"
+    }
+]

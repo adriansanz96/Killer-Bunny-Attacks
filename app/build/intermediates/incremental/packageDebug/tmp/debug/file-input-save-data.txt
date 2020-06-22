@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Thu Oct 24 20:46:43 CEST 2019
+1.base=D\:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\assets\\debug
+2.path=BaseDatosPreguntasCAT.sql
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=D\:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\assets\\debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=font/gillsans.ttf
+count=4
+1.set=ASSET
+0.path=classes.dex
+3.base=D\:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\assets\\debug
+0.set=DEX
+0.base=D\:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.baseType=DIRECTORY
+1.path=BaseDatosPreguntas.sql

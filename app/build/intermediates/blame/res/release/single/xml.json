@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_notification.xml",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_data_sync.xml",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_general.xml",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_headers.xml",
+        "source": "D:\\Mis Archivos\\Escritorio\\Apps Android\\KILLER BUNNY REED\\MyApplication\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    }
+]

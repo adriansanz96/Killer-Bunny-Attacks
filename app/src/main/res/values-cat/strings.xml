@@ -1,0 +1,135 @@
+<resources>
+    <!-- Activities -->
+    <string name="app_name">JuegoProyecto</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_juego">JuegoActivity</string>
+    <string name="title_activity_juego_niveles">JuegoNivelesActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+    <!-- TODO:CAMBIAR -->
+    <!-- layout_activity_juego_final -->
+    <string name="acelerometro">Utilitza l\'acceleròmetre      .</string>
+    <string name="zurdo">Esquerrà</string>
+
+    <string name="has_perdido"> Sí has perdut no pots guardar</string>
+    <!-- layout_activity_juego_niveles -->
+    <string name="guardar_resultado">GUARDAR RESULTAT</string>
+    <string name="añadir_pregunta">AFEGIR NOVA PREGUNTA</string>
+
+
+    <!-- layout_crear_nivel -->
+    <string name="num_preg_acertar">Nombre de preguntes que ha d\'encertar</string>
+    <string name="num_preg_fallar">Nombre de preguntes que permet fallar</string>
+    <string name="tiempo_disponible">Temps disponible (* en segons)</string>
+    <string name="cancelar">Cancel·lar</string>
+    <string name="jugar">Jugar</string>
+
+    <!-- layout_listview_resultados -->
+    <string name="volver">Tornar</string>
+    <string name="limpiar_todo">Netejar-ho tot</string>
+
+    <!-- layout_nombreresultado -->
+    <string name="nombre_result">Amb quin nom vols guardar el resultat?</string>
+    <string name="guardar">Desar</string>
+
+    <!-- layout_nueva_pregunta -->
+    <string name="insertar_pregunta">Insereix la pregunta:</string>
+    <string name="insertar_preg_correcta">Insereix la resposta correcta:</string>
+    <string name="insertar_preg_incorrecta">Insereix la resposta incorrecta:</string>
+    <string name="crear">Crear</string>
+
+    <!-- layout_salida_confim -->
+    <string name="abandonar_partida">Esteu segur que desitja abandonar la partida?</string>
+    <string name="salir">Sortir</string>
+    <string name="seguir_jugando">Seguir jugant</string>
+
+    <!-- MenuAdapter -->
+    <string name="compartir">Compartir</string>
+    <string name="nivel1">Fàcil</string>
+    <string name="nivel2">Medi</string>
+    <string name="nivel3">Difícil</string>
+    <string name="personalizar">Personalitzar</string>
+    <string name="rejugar">Rejugar</string>
+    <string name="menu_principal">Menú principal</string>
+
+    <!-- MainActivity -->
+    <string name="compartir_con">Compartir amb</string>
+
+    <string name="instrucciones">
+        <![CDATA[
+        <b>Com jugar?</b><br/>
+        <br/>
+        La mecànica del joc és molt simple, consisteix a respondre a les preguntes que apareix a la part superior de la pantalla abans que s\'acabi el temps. Tant el temps com la quantitat de preguntes que ha de realitzar, ve imposat sobre el nivell triat abans de començar a jugar. <br/>
+        Aquest va des del nivell fàcil al nivell difícil. Al final de cada partida es mostraran els resultats obtinguts. <br/><br/>
+        ]]>
+    </string>
+    <string name="instrucciones_titulo">Instruccions</string>
+    <string name="resultados_titulo">Resultats</string>
+    <string name="texto_compartir_menu">Heu de provar aquest nou joc: "https://play.google.com/store/apps/details?id=com.adrian.killerbunnyattacks"</string>
+
+    <!-- JuegoFinalFragment -->
+    <string name="ganador">Guanyador</string>
+    <string name="perdido">Has perdut</string>
+    <string name="max_incorrectas">Has superat el màxim de preguntes incorrectes</string>
+    <string name="preg_acertadas">Preguntes encertades = </string>
+    <string name="preg_falladas">Preguntes fallades = </string>
+    <string name="tiempo_total">Temps total = </string>
+    <string name="tiempo_transcurrido">Temps transcorregut = </string>
+    <string name="segundos">segons.</string>
+    <string name="texto_compartir_resultado">Aquesta a sigut la meva puntuació en el joc \'Killer Bunny Attacks\': "https://play.google.com/store/apps/details?id=com.adrian.killerbunnyattacks"</string>
+
+
+    <!-- TODO: NO BORRAR, NO ES NECESARIO CAMBIARLOS -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9592898708591296/9327642964</string>
+</resources>
